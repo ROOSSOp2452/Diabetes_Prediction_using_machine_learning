@@ -1,4 +1,4 @@
-# Diabetes_Prediction_using_machine_learning
+# Diabetes_Detection_using_machine_learning
 # Diabetes Prediction
 
 This repository contains code and resources for building a diabetes prediction model. The goal of this project is to leverage machine learning techniques to predict the likelihood of a person having diabetes based on certain features.
